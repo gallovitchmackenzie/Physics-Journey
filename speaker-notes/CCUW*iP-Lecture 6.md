@@ -18,13 +18,13 @@ New advancements in geophysics
 - Airbone electromagnetic data to fill in continents (ground water / mineral exploration)
 - Everyday applications (slope stability, finding unexploded ordnance)
 
-Multiple geophysical experiements to determine intrinsic properities of matierals.
-Skin depth equation = 503*sqrt(p/f)
-Deep subsurface imagining utilizes solar winds, lightening strikes, and other natural sources. 
-Earth's ionosphere - wave guide that bounces lightening strikes around Earth, utilize for data gathering in far away places. 
-Geophysical imaging is analogous to medical imaging.
-Permafrost landscapes (continuous, extensive discontinuous, sporadic discontinuous); point bars.
-Data plotted in pseudosections with electrodes, generates data points in 45 degree lines. 
+- Multiple geophysical experiements to determine intrinsic properities of matierals.
+- Skin depth equation = 503*sqrt(p/f)
+- Deep subsurface imagining utilizes solar winds, lightening strikes, and other natural sources. 
+- Earth's ionosphere - wave guide that bounces lightening strikes around Earth, utilize for data gathering in far away places. 
+- Geophysical imaging is analogous to medical imaging.
+- Permafrost landscapes (continuous, extensive discontinuous, sporadic discontinuous); point bars.
+- Data plotted in pseudosections with electrodes, generates data points in 45 degree lines. 
 
 ### Resources 
 - simpeg (open software data)
