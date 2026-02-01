@@ -11,6 +11,6 @@ This repo is meant to track my progress as a student and scientist through codin
 
 ## What You'll Find Here
 
-- Lecture notes from various physics speakers
+- Lecture notes from physics experts (school visits, conferences)
 - Small coding projects
 - Reflections on what I'm learning 
