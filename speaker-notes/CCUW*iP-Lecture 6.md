@@ -18,6 +18,7 @@ New advancements in geophysics
 - Airbone electromagnetic data to fill in continents (ground water / mineral exploration)
 - Everyday applications (slope stability, finding unexploded ordnance)
 
+General
 - Multiple geophysical experiements to determine intrinsic properities of matierals.
 - Skin depth equation = 503*sqrt(p/f)
 - Deep subsurface imagining utilizes solar winds, lightening strikes, and other natural sources. 
