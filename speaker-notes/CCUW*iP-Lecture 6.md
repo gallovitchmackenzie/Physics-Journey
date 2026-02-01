@@ -25,12 +25,14 @@ General
 - Earth's ionosphere - wave guide that bounces lightening strikes around Earth, utilize for data gathering in far away places. 
 - Geophysical imaging is analogous to medical imaging.
 - Permafrost landscapes (continuous, extensive discontinuous, sporadic discontinuous); point bars.
-- Data plotted in pseudosections with electrodes, generates data points in 45 degree lines. 
+- Data plotted in pseudosections with electrodes, generates data points in 45 degree lines.
+- Geothermal energy sources (especially in Iceland!).
 
 ### Resources 
 - simpeg (open software data)
 - Geoscientists with Borders (ground water)
 - Jupyter notebooks
+- international geomagnetic reference field
 - geosci.xyz
 
 ### Noteable Woman in the Field 
