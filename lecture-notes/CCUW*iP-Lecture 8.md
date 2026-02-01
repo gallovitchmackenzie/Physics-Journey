@@ -1,4 +1,4 @@
-# 2026-02-01
+# 2026-02-01 : Canadian Conference for Undergraduate Women & Gender Minorities in Physics  Canadian Conference for Undergraduate Women & Gender Minorities in Physics 
 
 ## Topic: Radiobursts / Pulsars
-Speaker: Ingrid Stairs (University of British Columbia)
+Speaker: Dr. Ingrid Stairs (University of British Columbia)
