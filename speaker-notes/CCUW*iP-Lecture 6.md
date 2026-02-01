@@ -34,5 +34,5 @@ General
 - geosci.xyz
 
 ### Noteable Woman in the Field 
-
-Marie Tharp (1960): Mapped out seafloor \nTanya Atwater (1968): Connecting tectonic plates to land
+- Marie Tharp (1960): Mapped out seafloor
+- Tanya Atwater (1968): Connecting tectonic plates to land
